@@ -1,7 +1,8 @@
-# portfolio
-
 Each folder contains a project. Below is a list of all projects
 
 ## hemnet-scrape
+Scraping information from sold property listings from Hemnet. ~ 50k+ apartments in Stockholm sold between 2013-2020
 ## hemnet-app-streamlit
-## predict-cancellations
+Deploying a streamlit app with some data from the hemnet-scrape project
+## predict-cancelations
+Supervised ML project predicting if a hotel booking will be cancelled
