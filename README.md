@@ -1,7 +1,7 @@
 # portfolio
 
-Here you can give some description of your projects...
+Each folder contains a project. Below is a list of all projects
 
-## my game...
-
-here i'm telling the reader something useful
+## hemnet-scrape
+## hemnet-app-streamlit
+## predict-cancellations
