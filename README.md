@@ -1,7 +1,8 @@
-# portfolio
+Each folder contains a project. Short introductions to each project:
 
-Here you can give some description of your projects...
-
-## my game...
-
-here i'm telling the reader something useful
+## hemnet-scrape
+Scraping information from Hemnet. ~ 50k apartments in Stockholm sold between 2013-2020
+## hemnet-app-streamlit
+Deploying a streamlit app with some data from the hemnet-scrape project
+## predict-cancelations
+Supervised ML project predicting if a hotel booking will be cancelled
