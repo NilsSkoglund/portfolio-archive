@@ -1,5 +1,5 @@
 # hemnet-streamlit-app
-Testing deploying a streamlit app to heroku
+Testing to deploy a streamlit app to heroku
 
 Link below to demo of application:
 
