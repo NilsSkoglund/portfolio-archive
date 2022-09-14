@@ -11,7 +11,7 @@ Supervised classification ML project predicting if a booking will be canceled or
 
 1) The models "original" predictions were not useful in this made up business case, however if you only used predictions made by the model with 0.9 or higher probability score then the models predictions could be used as a key component in a profitable strategy. 
 
-2) The use case put contraints on what data could be used. With the framework I adopted I was only interested in the models performance on bookings that were cancelled less than 30 days before arrival. The 30 day limit is somewhat arbitrary but to give the reader a feel for the thought process behind this, think about the real would implications if we allow for all predictions made for bookings that were canceled, not taking the number of days before arrival into account.
+2) The use case put contraints on what data could be used. With the framework I adopted I was only interested in the models performance on bookings that were cancelled less than 30 days before arrival. The 30 day limit is somewhat arbitrary but to give the reader a feel for the thought process behind this, think about the real world implications if we allow for all predictions made for bookings that were canceled, not taking the number of days before arrival into account.
 
 For more details about the business use case, please see the presentation available in the repo.
 
