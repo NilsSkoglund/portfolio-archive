@@ -1,4 +1,4 @@
-Each folder contains a project. Short introductions to each project:
+Each folder contains a project.
 
 ## hemnet-scrape
 Scraping information from Hemnet. ~ 50k apartments in Stockholm sold between 2013-2020
